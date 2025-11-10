@@ -32,7 +32,7 @@ uesimtun0 ip == 10.45.0.5
 
 ### D. N11介面（AMF <-> SMF）
 1. 請透過已知的N11介面的`tcp.port == 7777`找到AMF <-> SMF的封包並截圖
-2. 請選擇任意一個封包，並點選右鍵選則decode as...，將TCP port最右邊的current改成http2![Screenshot 2025-11-10 at 1.08.26 PM](https://hackmd.io/_uploads/SkDLmgJgZx.png =500x)
+2. 請選擇任意一個封包，並點選右鍵選則decode as...，將TCP port最右邊的current改成http2![Screenshot 2025-11-10 at 1.08.26 PM](https://hackmd.io/_uploads/SkDLmgJgZx.png)
 3. 請找出N11中的IMSI，並觀察是否與N1/N2介面中的一致（需付截圖）？[使用follow功能]
 4. 請找出SMF設定UE的UEAggregateMaximumBitRate是多少Kbs（需付截圖）?[使用follow功能]
 5. 請問為什麼需要使用follow功能？
