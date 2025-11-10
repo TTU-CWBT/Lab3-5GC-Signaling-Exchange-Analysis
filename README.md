@@ -47,8 +47,8 @@ uesimtun0 ip == 10.45.0.5
 
 ### F. 加分題
 1. 請問N1,N2,N11可不可以看到User傳送的value(Data)?為什麼？
-2. 如果封包從UE傳送至 google.com，請問外層與內層的source與destination IP分別是多少(需付截圖）？
-6. 為什麼需要分內層與外層？
+2. 在N3介面中，如果封包從UE傳送至 google.com，請問外層與內層的source與destination IP分別是多少(需付截圖）？
+6. 承上題，為什麼需要分內層與外層？
 
 
 
